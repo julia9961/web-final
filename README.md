@@ -85,7 +85,7 @@
 
 - отчёт по производственной практике,
 - аттестационный лист по производственной практике,
-- дневник производственной практики (см. [шаблон](https://docs.google.com/document/d/1tTB83Vb4wzeOip8v3jlYiR8uvvRXVss_HzSTx2a06tU/edit)).
+- дневник производственной практики (см. [шаблон](https://docs.google.com/document/d/1tTB83Vb4wzeOip8v3jlYiR8uvvRXVss_HzSTx2a06tU/edit?usp=sharing)).
 
 Состав отчёта по производственной практике:
 
